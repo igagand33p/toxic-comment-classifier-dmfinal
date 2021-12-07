@@ -1,10 +1,13 @@
 # toxic-comment-classifier-dmfinal
 
 THE CODE IS WRITTEN / MODIFIED ON PYTHON 3.6
+
 THE ORIGINAL CODE IS REFERENCED FROM = https://www.kaggle.com/watermasterz/toxic-comments-classification/notebook
+
 THIS CODE IS AN EXTENSION / MODIFICATION OF THE ORIGINAL CODE AND MORE REFERENCES OF THE MATERIALS USED FOR THE IMPLEMENTATION IS REFERENCED IN THE BLOG = https://dev-gagandeepshivamadhu.pantheonsite.io/final-project-submission/
 
 DATA FILES FOR THIS CODE IS TOO LARGE TO ADD TO REPOSITORY, HENCE THEY ARE AVAILABLE FOR DOWNLOAD ON = https://drive.google.com/drive/folders/11dK_1FeYBahpxzAHTcxowcwOcLjWs3bV?usp=sharing
+
 THE EXPLANATION OF THE CODE IS AVAILABLE ON THE BLOG HERE = https://dev-gagandeepshivamadhu.pantheonsite.io/final-project-submission/
 
 TO RUN THIS CODE, FOLLOW THE STEPS :
