@@ -19,3 +19,5 @@ TO RUN THIS CODE, FOLLOW THE STEPS :
 FOR MORE INFORMATION VISIT = https://dev-gagandeepshivamadhu.pantheonsite.io/final-project-submission/
 
 A SMALL VIDEO EXPLANATION IS ALSO AVAILABLE ON = https://youtu.be/Ihnfr22M2Vo
+
+backup kaggle submission available here = https://www.kaggle.com/gagandshivamadhu/upgraded-toxic-comments-classifier
